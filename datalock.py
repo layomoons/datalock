@@ -97,7 +97,7 @@ Here Your Results:
  Invalid Email {invalid}
  Valid DataBase: {', '.join(valid )}""")
 
-        input("\nThe end! Press Enter 5 times to close the program.")
+        input("\nShearch DataBase please wait...")
         [input(i) for i in range(4,0,-1)]
 
 
@@ -164,12 +164,12 @@ Here Your Results:
 
         if response.status_code == 200:
             print(f" Valid | {nitro} ", flush=True, end="" if os.name == 'nt' else "\n")
-            with open("Nitro Codes.txt", "w") as file:
+            with open("MDP Codes.txt", "w") as file:
                 file.write(nitro)
             if notify is not None:
                 DiscordWebhook(
                     url = notify,
-                    content = f"Valid Nitro Code detected! @everyone \n{nitro}"
+                    content = f"Valid MDP detected! @everyone \n{nitro}"
                 ).execute()
             return True
         else:
