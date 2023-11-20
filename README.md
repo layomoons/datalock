@@ -42,6 +42,8 @@ $ git clone https://github.com/nightmoonn/datalock
 ```console
 $ cd datalock
 $ python3 datalock.py
+
+type: 10
 ```
 <p>
    
