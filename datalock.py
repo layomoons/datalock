@@ -97,7 +97,7 @@ Here Your Results:
  Invalid Email {invalid}
  Valid DataBase: {', '.join(valid )}""")
 
-        input("\nShearch DataBase please wait...")
+        input("\nShearch DataBase please wait... PRESS ENTER")
         
 
 
