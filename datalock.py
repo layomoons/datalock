@@ -55,7 +55,7 @@ DataLock email Checker database!""")
         time.sleep(2)
         self.slowType("Made by NightMoon", .02)
         time.sleep(1)
-        self.slowType("\nMDP numbers: ", .02, newLine = False)
+        self.slowType("\nType: ", .02, newLine = False)
 
 
         num = int(input(''))
@@ -73,7 +73,7 @@ DataLock email Checker database!""")
                     string.ascii_uppercase + string.digits + string.ascii_lowercase,
                     k = 24
                 ))
-                url = f"mdp: {code}"
+                url = f"sitedata: {code}"
 
                 result = self.quickChecker(url, webhook)
 
@@ -98,8 +98,7 @@ Here Your Results:
  Valid DataBase: {', '.join(valid )}""")
 
         input("\nShearch DataBase please wait...")
-        [input(i) for i in range(4,0,-1)]
-
+        
 
 
     def slowType(self, text, speed, newLine = True):
