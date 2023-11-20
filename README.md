@@ -30,6 +30,8 @@ Disponible:
    
    <img src="https://cdn.discordapp.com/attachments/1146787187506036826/1176151808276693023/datalock.jpg?ex=656dd3ba&is=655b5eba&hm=8255208288b8e13aa5b6ec465d8c03ea7a6731a5721aa6b3e25766f1bc99b5a4&" />
    
-Commande:
-   
-   <img src="https://cdn.discordapp.com/attachments/923035796548763703/1116899838571860020/561c6500-0423-11eb-8de3-df840f6a912d.gif" />
+## Installation
+
+```console
+# clone the repo
+$ git clone https://github.com/nightmoonn/datalock.git
