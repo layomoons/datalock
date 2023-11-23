@@ -34,7 +34,7 @@ Disponible:
 
 ```console
 # clone the repo
-$ git clone https://github.com/nightmoonn/datalock
+$ git clone https://github.com/nightmoonn/datalock.git
 ```
 
 ## Commandes
