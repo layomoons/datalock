@@ -1,4 +1,4 @@
-# How To Contribute To Sherlock
+# How To Contribute To Datalock
 First off, thank you for the help!
 
 There are many ways to contribute.  Here is some high level grouping.
