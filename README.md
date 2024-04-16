@@ -12,7 +12,7 @@ AVANT LE LANCEMENT : Assurez-vous que vous êtes connecté à Internet via le w
    
    <img src="https://cdn.discordapp.com/attachments/963975663033925642/1229859620671979702/anoinsta.png?ex=66313707&is=661ec207&hm=16868bd10c053a22cf3552713aa13becd01b1aa1b8210655a0e0c23b7b2f8293&" />
 
-PS. DataLock est fortement recommandé pendant que je développe l'écouteur Si vous n'avez pas installé ces logiciels, vous pouvez les installer avec : git clone https://github.com/layomoons/anoinsta.git
+PS. Anoinsta est fortement recommandé pendant que je développe l'écouteur Si vous n'avez pas installé ces logiciels, vous pouvez les installer avec : git clone https://github.com/layomoons/anoinsta.git
 
 Si vous voulez la version la plus récente, vous devez cloner le repo, si vous voulez une version stable, vous devez la télécharger dans la section "Releases".
 
@@ -41,9 +41,4 @@ $ git clone https://github.com/layomoons/anoinsta.git
 ```console
 $ cd anoinsta
 $ python3 Anoinsta.py
-
-type: 10
 ```
-<p>
-   
-   <img src="https://cdn.discordapp.com/attachments/1146787187506036826/1176201820524257321/image.png?ex=656e024e&is=655b8d4e&hm=23dd4f0506206596dd95275c2eb7b930cec9bfe1e80c1f548f1c6eb89ce54b8d&" />
