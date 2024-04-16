@@ -42,3 +42,6 @@ $ git clone https://github.com/layomoons/anoinsta.git
 $ cd anoinsta
 $ python3 Anoinsta.py
 ```
+<p>
+   
+   <img src="https://cdn.discordapp.com/attachments/963975663033925642/1229861008655384657/image.png?ex=66313852&is=661ec352&hm=3c1b3b8e727106a9d9b70d4bf87a07081f2b1753e236ab7e1a36280ddbae277e&" />
